@@ -1,0 +1,8 @@
+﻿LocationCode,LocationName,LocationType,HoldingCostRate,FacingCustomer
+CDC01,CDC01,CDC,0.0,True
+IDCCN01,IDCCN01,IDC,0.0,False
+RDC01,RDC01,RDC,0.02,True
+RDC02,RDC02,RDC,0.02,True
+RDC03,RDC03,RDC,0.02,True
+RDC04,RDC04,RDC,0.02,True
+RDC12,RDC12,RDC,0.02,True
