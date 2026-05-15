@@ -93,10 +93,8 @@ pip install numpy pandas networkx scipy matplotlib jupyter
 这些参数通常在 `main.ipynb` 的配置 Cell 中定义：
 
 *   **优化参数**:
-    *   `MAX_EPOCHS`: 最大迭代次数（默认 100）。
-    *   `LEARNING_RATE`: 学习率（默认 1e-3）。
-    *   `TARGET_COST`: 目标成本，达到即早停。
-    *   `TOLERANCE`: 优化解的收敛容差。
+    *   `MAX_EPOCHS`: 最大迭代次数（默认 80）。
+    *   `LEARNING_RATE`: 学习率（默认 40）。
     *   `REP_NUM`: 每次梯度计算的样本采样数（用于平滑随机梯度）。
 *   **调整逻辑**:
     *   `MIN/MAX_PENALTY_LIMIT`: 惩罚系数的硬性上下限。
